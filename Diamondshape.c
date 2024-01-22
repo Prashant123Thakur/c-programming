@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int n;
-    printf("Enter the Number(odd) : ");
+    printf("Enter  Number(odd) : ");
     scanf("%d",&n);
     int nsp = n/2;
     int nst = 1;
